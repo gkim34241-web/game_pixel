@@ -17,7 +17,7 @@
 
 ## Локальная сборка на ПК
 ```bash
-npm ci
+npm install
 npm run build
 npm install --no-save @capacitor/core@6 @capacitor/cli@6 @capacitor/android@6
 npx cap add android
