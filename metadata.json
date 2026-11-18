@@ -1,0 +1,6 @@
+{
+  "name": "Рыцарь Хроник",
+  "description": "2D пиксельная приключенческая экшен-RPG в духе Guardian Tales с головоломками, сенсорным управлением для Android и системой достижений.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

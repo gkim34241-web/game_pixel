@@ -1,0 +1,11 @@
+{
+  "name": "Рыцарь Хроник",
+  "short_name": "Рыцарь Хроник",
+  "description": "2D пиксельная приключенческая экшен-RPG с головоломками и системой достижений",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b131e",
+  "theme_color": "#0b131e",
+  "categories": ["games", "action", "adventure"]
+}
